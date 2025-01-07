@@ -1,6 +1,6 @@
 <img align="right" width="150" height="150" top="100" src="./assets/readme.png">
 
-# nplate • ![license](https://img.shields.io/github/license/abigger87/femplate?label=license) ![solidity](https://img.shields.io/badge/solidity-^0.8.15-lightgrey)
+# nplate • [![license](https://img.shields.io/github/license/abigger87/femplate?label=license)](https://github.com/exp-table/nplate/blob/main/LICENSE) ![solidity](https://img.shields.io/badge/solidity-^0.8.15-lightgrey)
 
 A **Simple**, **Minimalist** Template for Noir Projects.
 
